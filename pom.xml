@@ -14,7 +14,7 @@
 
     <license>
         <name>Mozilla Public License Version 1.1</name>
-            <url>https://www.mozilla.org/MPL/1.1/</url>
+        <url>https://www.mozilla.org/MPL/1.1/</url>
     </license>
 
 
@@ -136,6 +136,7 @@
             <!-- <Require-Bundle-Fragment></Require-Bundle-Fragment> -->
             <!-- <Import-Package>*</Import-Package> -->
             <!-- <DynamicImport-Package>*</DynamicImport-Package> -->
+            <!-- <Fragment-Host></Fragment-Host> -->
           </instructions>
         </configuration>
         <extensions>true</extensions>
